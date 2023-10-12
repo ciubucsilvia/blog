@@ -1,0 +1,9 @@
+button .ion-icon {
+    background: none;
+    padding: 0px;
+    border: none;
+}
+
+table form {
+    display: inline-block;
+}
